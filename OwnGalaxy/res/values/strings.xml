@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OwnGalaxy</string>
+    <string name="tvAnzeige">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_introduction">Willkommen in meiner App!</string>
+    <string name="bt_plus">Plus</string>
+    <string name="bt_minus">Minus</string>
+
+</resources>
